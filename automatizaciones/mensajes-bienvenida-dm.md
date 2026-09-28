@@ -11,19 +11,25 @@ Objetivo: que un seguidor nuevo sienta que le escribe **Jair**, no un bot, y que
 | Explica las palabras clave (suena a bot) | La guía se ofrece solo si la persona la pide |
 | Dos mensajes automáticos distintos para el mismo lead | **Un solo** mensaje de bienvenida |
 
-## 1. Bienvenida (nuevo seguidor o primer "Hola")
+## 1. Bienvenida (mensaje ACTIVO)
 
-**Opción A (recomendada): corta y curiosa**
-> ¡Hola, {nombre}! 👋 Soy Jair, qué gusto tenerte por aquí.
-> Cuéntame, ¿qué te trajo a mi perfil?
+Mezcla de B + C: una sola pregunta, cercana y sin explicar el "sistema" de palabras clave.
 
-**Opción B: con la guía gratis**
-> ¡Hola, {nombre}! Soy Jair 😊 Gracias por seguirme.
-> Si vienes por una guía, mándame la palabra del post y te la paso. Si no, cuéntame: ¿qué te gustaría mejorar en el amor?
+> Hola, {nombre} 👋 Soy Jair, gracias por seguirme.
+> ¿Vienes por alguna guía o hay algo del amor que quieras mejorar? Cuéntame 😊
 
-**Opción C: la que más califica al lead**
-> Hola, {nombre} 👋 Soy Jair. Una pregunta rápida:
-> ¿ahora mismo buscas pareja o quieres mejorar la relación que ya tienes?
+**Dónde va:** Meta Business Suite → Bandeja de entrada → Automatizaciones → *Respuesta instantánea* (Messenger e Instagram).
+Si usas ManyChat, pégalo en el flujo *Welcome / Default Reply* y apaga la respuesta instantánea de Meta para no duplicar.
+
+### Si contesta "la guía" sin decir cuál
+
+> ¡Claro! ¿De cuál post? Mándame la palabra que aparece ahí (por ejemplo SEÑALES) y te la paso 😉
+
+### Opciones anteriores (referencia)
+
+- **A:** ¡Hola, {nombre}! 👋 Soy Jair, qué gusto tenerte por aquí. Cuéntame, ¿qué te trajo a mi perfil?
+- **B:** ¡Hola, {nombre}! Soy Jair 😊 Gracias por seguirme. Si vienes por una guía, mándame la palabra del post y te la paso. Si no, cuéntame: ¿qué te gustaría mejorar en el amor?
+- **C:** Hola, {nombre} 👋 Soy Jair. Una pregunta rápida: ¿ahora mismo buscas pareja o quieres mejorar la relación que ya tienes?
 
 ## 2. Si pregunta "¿Qué hacen aquí?" / "¿De qué se trata?"
 
