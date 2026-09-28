@@ -16,7 +16,7 @@ Objetivo: que un seguidor nuevo sienta que le escribe **Jair**, no un bot, y que
 Mezcla de B + C: una sola pregunta, cercana y sin explicar el "sistema" de palabras clave.
 
 > Hola, {nombre} 👋 Soy Jair, gracias por seguirme.
-> ¿Vienes por alguna guía o hay algo del amor que quieras mejorar? Cuéntame 😊
+> ¿Vienes por alguna guía o hay algo en tus relaciones que quieras mejorar? Cuéntame :)
 
 **Dónde va:** Meta Business Suite → Bandeja de entrada → Automatizaciones → *Respuesta instantánea* (Messenger e Instagram).
 Si usas ManyChat, pégalo en el flujo *Welcome / Default Reply* y apaga la respuesta instantánea de Meta para no duplicar.
